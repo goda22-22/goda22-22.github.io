@@ -67,6 +67,9 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/goda22-22"
+
+atom_feed:
+  hide: true
     
 footer:
   links: []
