@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Goda Pocius"
   avatar : "/assets/images/avatar.jpeg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "Senior at Virginia Polytechnic Institute with a dual major in Cybsersecurity and Philosophy."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
