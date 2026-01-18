@@ -3,4 +3,4 @@ permalink: /about/
 title: "About"
 ---
 
-I am a senior at Virginia Polytechnic Institute. I am pursuing a dual major in Cybersecurity Management & Analytics and Philosophy. I am intrinsically motivated in my studies and education. I am seeking experiences that will further enrich my understanding of the industries in which I hope to pursue a fulfilling career.
+This blog aims to challenge the misconception that philosophy and cybersecurity are mutually exclusive or unrelated disciplines. The purpose of this work is to integrate these two fields and to conceptualize cybersecurity and artificial intelligence through an ethical lens. 
