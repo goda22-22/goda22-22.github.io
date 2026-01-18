@@ -59,7 +59,7 @@ plugins:
 
 author:
   name   : "Goda Pocius"
-  avatar : "/assets/images/avatar.jpg"
+  avatar : "/assets/images/avatar.jpeg"
   bio    : "My awesome biography constrained to a sentence or two goes here."
   links:
     - label: "Website"
